@@ -1,0 +1,6 @@
+{
+  "name": "FoodShare",
+  "description": "Food donation management platform connecting donors, receivers, volunteers, and food partners to reduce hunger and food waste.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
